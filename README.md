@@ -1,16 +1,17 @@
-### Hi there 👋
+## Intro
+Computer science student at [Linköping University](https://liu.se/en). 
 
-<!--
-**cxe0/cxe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at [Linköping University](https://liu.se/en)
+- 💻 Proficient in Java
+- 🌱 Currently learning [mention any current focus or project]
+- 🤝 Open to collaborations on interesting projects
+
+## Projects
+
+Here are a few projects I've worked on:
+
+## 
+Feel free to reach out to me if you have any questions or just want to connect! 😊
