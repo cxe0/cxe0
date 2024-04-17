@@ -6,7 +6,6 @@ Computer science student at [Linköping University](https://liu.se/en).
 
 - 🎓 Studying Computer Science at [Linköping University](https://liu.se/en)
 - 💻 Proficient in Java
-- 🌱 Currently learning [mention any current focus or project]
 - 🤝 Open to collaborations on interesting projects
 
 ## Projects
