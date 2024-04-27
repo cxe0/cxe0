@@ -1,10 +1,8 @@
 ## Intro
-Computer science student at [Linköping University](https://liu.se/en). 
 
 
 ## About Me
 
-- 🎓 Studying Computer Science at [Linköping University](https://liu.se/en)
 - 💻 Proficient in Java
 - 🌱 Currently learning web-dev and 6502 assembly 
 - 🤝 Open to collaborations on interesting projects
