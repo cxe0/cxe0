@@ -3,10 +3,6 @@
 
 ## About Me
 
-- 💻 Proficient in Java
-- 🌱 Currently learning web-dev and 6502 assembly 
-- 🤝 Open to collaborations on interesting projects
-
 ## Projects
 
 Here are a few projects I've worked on:
