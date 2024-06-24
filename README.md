@@ -1,8 +1,7 @@
-## Intro
+# Hi, I'm cxe0 👋
 
+🎓 Computer Science Master's student
 
-## About Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxe0&theme=tokyonight)
 
-## Projects
-
-Here are a few projects I've worked on:
+Check out my projects below!
